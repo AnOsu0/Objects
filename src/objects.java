@@ -1,3 +1,5 @@
+import java.util.Locale;
+
 public class objects {
     public static void main(String[] args) {
 
